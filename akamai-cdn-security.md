@@ -1,6 +1,10 @@
 ---
 name: akamai-cdn-security
-description: Manage Akamai CDN cache purging (Fast Purge), Property Manager configurations (Ion, AMD), AppSec WAF rules, Edge Hostnames, and Certificate Provisioning using the akamai CLI.
+description: |
+  Manage Akamai CDN cache purging (Fast Purge), Property Manager configurations (Ion, AMD),
+  AppSec WAF rules, Edge Hostnames, and Certificate Provisioning using the akamai CLI.
+  Use for: purge, cache, property manager, WAF, AppSec, CDN rule, edge hostname, CPS,
+  certificate, activate property, staging, production.
 metadata:
   category: network-security
   provider: akamai

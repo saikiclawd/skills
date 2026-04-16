@@ -1,6 +1,11 @@
 ---
 name: akamai-connected-cloud
-description: Provision and manage Akamai Connected Cloud (Linode) compute instances, GPU nodes, LKE Kubernetes clusters, NodeBalancers, Object Storage, Block Storage, Firewalls, VLANs, and DNS using the linode-cli.
+description: |
+  Provision and manage Akamai Connected Cloud (Linode) compute instances, GPU nodes, LKE
+  Kubernetes clusters, NodeBalancers, Object Storage, Block Storage, Firewalls, VLANs,
+  and DNS using the linode-cli.
+  Use for: Linode, LKE, cluster, Object Storage, NodeBalancer, GPU instance, block storage,
+  firewall, VLAN, provision, kubeconfig, region.
 metadata:
   category: cloud-infrastructure
   provider: akamai

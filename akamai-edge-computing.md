@@ -1,6 +1,11 @@
 ---
 name: akamai-edge-computing
-description: Deploy and manage serverless edge logic using Akamai EdgeWorkers (JavaScript), EdgeKV (distributed key-value store), and Akamai Functions via Fermyon Spin (WebAssembly / Rust / Go / TypeScript).
+description: |
+  Deploy and manage serverless edge logic using Akamai EdgeWorkers (JavaScript), EdgeKV
+  (distributed key-value store), and Akamai Functions via Fermyon Spin (WebAssembly /
+  Rust / Go / TypeScript).
+  Use for: EdgeWorker, EdgeKV, Spin, Wasm, Fermyon, edge function, serverless, A/B test,
+  redirect, edge logic, KV store, edge namespace, activate version.
 metadata:
   category: edge-serverless
   provider: akamai
